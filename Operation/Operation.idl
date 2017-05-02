@@ -1,0 +1,5 @@
+struct Operation
+{
+	unsigned long index;
+	string message;
+};
